@@ -1,0 +1,60 @@
+
+
+.admin-vacations {
+  margin-top: 45px;
+}
+
+.admin-logout {
+  border-radius: 10px;
+}
+
+.image {
+  margin-left: 99px;
+}
+
+.departure {
+  margin-left: 37px;
+}
+
+.return {
+  margin-left: 63px;
+}
+
+.price {
+  margin-left: 107px;
+}
+
+
+.modalButton > .btn.btn-primary {
+  margin-right: 153px;
+}
+
+.adminVacationList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+ 
+}
+
+.createVacation {
+  border-radius: 10px;
+}
+
+
+.vacation {
+  border: 1px solid black;
+  margin-top: 2%;
+}
+
+.adminPage .cruiser {
+  cursor: pointer;
+}
+
+.adminPage .fontAwesome {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.imageUploader {
+  margin-left: 45px;
+}

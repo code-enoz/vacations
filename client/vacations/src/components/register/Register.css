@@ -1,0 +1,17 @@
+.registerForm{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    height: 100%;
+}
+
+.registrationContainer{
+    background-image: url(../../relativeImages/register.jpg);
+    height: 578px;
+    background-size: cover;
+}
+
+.registerForm > input {
+    margin-left: 42%;
+   width: 200px;
+}

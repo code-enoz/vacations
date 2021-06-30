@@ -1,0 +1,13 @@
+.login-title{
+  padding-right: 50px;
+}
+
+
+ .login-form{
+    background:rgba(255,255,255, 0.3);
+    border-radius: 10px;
+    box-shadow: 0 0 10px #000;
+    width: 225px;
+    margin-left: 500px;
+   }
+

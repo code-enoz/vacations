@@ -1,0 +1,40 @@
+
+
+.vacationList{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    width: 100%;
+}
+
+
+.vacationsBlock{
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    min-width: 100%;
+}
+
+.clientContainer  .vacation{
+   margin-bottom: 50px;
+   margin-left: 50px;
+}
+
+.vacation_image{
+    height: 225px;
+    width: 225px;
+}
+
+.logout{
+border-radius: 300px;
+}
+
+.clientHeader{
+    background-color: seashell ;
+    z-index: 1;
+    position: fixed;
+    width: 1250px;
+    height: 70px;
+}

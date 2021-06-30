@@ -1,0 +1,21 @@
+.headerContainer{
+
+    height: 45px;
+    background-image: url("../../relativeImages/banner-1571858__480.jpg");
+    background-size: cover;
+    display: flex;
+    flex-flow: column;
+    position: fixed;
+    min-width: 100%;
+    
+
+}
+
+
+
+.headerContainer > h3{
+  
+    margin-left: 540px;
+
+}
+

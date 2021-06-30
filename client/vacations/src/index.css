@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+
+
+html, body{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  
+}
+
+body::-webkit-scrollbar {
+
+  width: 2em;
+  background: seashell;
+}
+ 
+ 
+body::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+  border-radius: 10px;
+}
+
+
+#root{
+  min-height: 100%; 
+}
+
+
+
+
